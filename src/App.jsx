@@ -50,7 +50,6 @@ function App() {
     <div className="App">
       <h1>Formulario de contacto</h1>
       <form
-        netlify
         name="contact"
         method="POST"
         data-netlify="true"
